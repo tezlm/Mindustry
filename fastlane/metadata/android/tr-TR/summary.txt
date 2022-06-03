@@ -1,1 +1,1 @@
-Fabrika-temelli bir sandbox kule savunma oyunu.
+Fabrika-temelli bir sandbox kule savunma oyunu. 

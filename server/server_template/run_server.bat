@@ -1,2 +1,1 @@
-@echo off
-java -jar server.jar
+@echo off java -jar server.jar 

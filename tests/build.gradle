@@ -1,1 +1,1 @@
-sourceSets.test.resources.srcDirs = ["src/test/resources"]
+sourceSets.test.resources.srcDirs = ["src/test/resources"] 

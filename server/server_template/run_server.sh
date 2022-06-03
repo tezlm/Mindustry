@@ -1,2 +1,1 @@
-#!/usr/bin/env bash
-java -jar server.jar
+#!/usr/bin/env bash java -jar server.jar 
